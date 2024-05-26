@@ -21,6 +21,8 @@ The "Customer Churn Prediction using Machine Learning" project aims to develop a
 ## Project Objective
 The objective is to accurately forecast which customers are likely to churn (i.e. discontinue their services) based on historical customer data. 
 
+![](image_2.jpg)
+
 ## Data Sources
  The data used in this project was from kaggle. The dataset contains a collection of features including	gender, SeniorCitizen, Partner, Dependents, tenure,	 PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup,	 DeviceProtection, TechSupport, StreamingTV, StreamingMovies, Contract,	 PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges, Churn
 
