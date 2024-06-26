@@ -26,7 +26,7 @@ The objective is to accurately forecast which customers are likely to churn (i.e
 ## Data Sources
  The data used in this project was from kaggle. The dataset contains a collection of features including	gender, SeniorCitizen, Partner, Dependents, tenure,	 PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup,	 DeviceProtection, TechSupport, StreamingTV, StreamingMovies, Contract,	 PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges, Churn
 
- ## Data Preprocessing
+## Data Preprocessing
  Before feeding the data into the machine learning model, extensive data preprocessing was performed. This included handling missing datas, scaling features. Additionally, feature engineering techniques were applied to extract relevant iformation from the raw data such as the short, medium and long term tenure.
 
  ## Machine Learning Model 
