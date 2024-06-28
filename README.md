@@ -30,7 +30,7 @@ The objective is to accurately forecast which customers are likely to churn (i.e
  Before feeding the data into the machine learning model, extensive data preprocessing was performed. This included handling missing datas, scaling features. Additionally, feature engineering techniques were applied to extract relevant iformation from the raw data such as the short, medium and long term tenure.
 
  ## Machine Learning Model 
- The customer churn prediction is built using a supervised machine learning approach. Training and test was split into 70:30. Several classification algorithms were experimented with including but not-limited to:
+ The customer churn prediction is built using a supervised machine learning approach. Training and test was split into 70:30. Several algorithms were experimented with including but not-limited to:
  - Random Forest
  - Naive Bayes
  - Support Vector Machine
